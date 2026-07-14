@@ -9,7 +9,7 @@ Developed during internship at i-WORKZ Automotive Pvt. Ltd.,
 Bengaluru (Feb–Mar 2026).
 
 ## System Architecture
-![Architecture](assets/usb_hid_architecture.png)
+![Architecture](system architecture diagram.png)
 
 ## Features
 - Dual-mode interface: on-screen keyboard + touchpad mouse control
