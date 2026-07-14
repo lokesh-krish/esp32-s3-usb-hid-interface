@@ -1,6 +1,3 @@
-# esp32-s3-usb-hid-interface
-ESP32-S3 based USB HID device — dual-mode keyboard and touchpad interface on a round display
-
 # ESP32-S3 USB HID Interface — Keyboard & Touchpad System
 
 ## Overview
