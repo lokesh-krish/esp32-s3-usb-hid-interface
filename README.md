@@ -43,6 +43,3 @@ left click, right click, and scroll.
 
 ## Demo
 *Photos and video coming soon*
-
-## License
-MIT
