@@ -46,6 +46,6 @@ left click, right click, and scroll.
 
 <p align="center">
   <img src="boot_screen.png" width="221">
-  <img src="keyboard_img_report.png" width="225">
+  <img src="keyboard_img_report.png" width="226">
   <img src="mouse_img_report.png" width="220">
 </p>
