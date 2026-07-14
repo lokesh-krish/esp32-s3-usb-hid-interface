@@ -42,7 +42,10 @@ movement on the host (Mouse.move(dx, dy)). Tap zones handle
 left click, right click, and scroll.
 
 ## Demo
-### Interface Screenshots
-![Boot Screen](boot_screen.png)
-![Keyboard UI](keyboard_img_report.png)
-![Touchpad UI](mouse_img_report.png)
+## Interface Screenshots
+
+<p align="center">
+  <img src="boot_screen.png" width="220">
+  <img src="keyboard_img_report.png" width="220">
+  <img src="mouse_img_report.png" width="220">
+</p>
